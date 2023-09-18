@@ -2,7 +2,7 @@
   <img href="https://www.cyrateam.xyz/" width="442" height="200" src="https://cdn.discordapp.com/attachments/1038704467828281346/1149623374486716456/Proyek_Baru_9_03519D1.png">
 </div>
 
-# who are we
+# who we are
 cyrateam is new organization, and focused on npm package, discord bot, and minecraft servers!
 
 # our project
