@@ -12,7 +12,7 @@ cyrateam is new organization, and focused on npm package, discord bot, and minec
 </div>
 
 - CyraBot provides built-in protection against raiding and bad bots, keeping your server safe from spam and other malicious attacks.
-  - [cyrabot-website]
+  - [website](https://www.cyrabot.my.id/)
   - [invite]
 
 ### discord-afk-js
@@ -20,22 +20,26 @@ cyrateam is new organization, and focused on npm package, discord bot, and minec
   - [docs]
   - [repository]
   - [npm]
+
+### Starboard-JS
+- starboard-js is a JavaScript library designed for developers who want to add a starboard feature to their Discord bot
+  - [docs](https://cyrateam.xyz/about/starboard-js/)
+  - [repository](https://github.com/CyraTeam/starboard-js/)
+  - [npm](https://www.npmjs.com/package/starboard-js/)
+
 ### Cookies Network
 - CookiesNetwork is our official Minecraft server that offers various features and game modes, such as Slimefun features, economy features, practice game mode, and Bedwars game mode.
-  - [website]
-  - [discord]
+  - [website](https://www.cookiesmc.xyz/)
+  - [discord](https://www.cookiesmc.xyz/discord/)
 
 By providing your support, you are contributing to the growth and improvement of CyraTeam's projects.
 
-- [cyrateam-discord]
-- [cyrateam-website]
+- our official [discord] servers
+- our official [website]
 
-[cyrabot-website]: https://www.cyrabot.my.id
 [invite]: https://www.cyrabot.my.id/invite/
-[docs]: https://www.cyrateam.xyz
-[repository]: https://github.com/CyraTeam/discord-afk-js
-[npm]: https://www.npmjs.com/package/discord-afk-js
-[website]: https://www.cookiesmc.xyz
-[discord]: https://www.cookiesnc.xyz/discord
-[cyrateam-discord]: https://www.cyrateam.xyz/discord/
-[cyrateam-website]: https://www.cyrateam.xyz/
+[docs]: https://www.cyrateam.xyz/about/discord-afk-js/
+[repository]: https://github.com/CyraTeam/discord-afk-js/
+[npm]: https://www.npmjs.com/package/discord-afk-js/
+[discord]: https://www.cyrateam.xyz/discord/
+[website]: https://www.cyrateam.xyz/
