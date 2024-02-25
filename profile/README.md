@@ -1,5 +1,5 @@
 <div align="center">
-  <img href="https://www.cyrateam.xyz/" width="442" height="200" src="https://cdn.discordapp.com/attachments/1038704467828281346/1149623374486716456/Proyek_Baru_9_03519D1.png">
+  <img href="https://www.cyrateam.xyz/" width="442" height="200" src="https://media.discordapp.net/attachments/1038704467828281346/1149623374486716456/Proyek_Baru_9_03519D1.png?ex=65eacd33&is=65d85833&hm=3790065f48890ed67479de32a08f60831d6006b0304f1ad46fe82f175254ca18&=&format=webp&quality=lossless&width=783&height=440">
 </div>
 
 # who we are
