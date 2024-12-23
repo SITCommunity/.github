@@ -3,7 +3,7 @@
 </div>
 
 # who we are
-cyrateam is new organization, and focused on npm package, discord bot, and minecraft servers!
+Smaller teams that work on a variety of projects and innovations.
 
 # our project
 ### CyraBot
