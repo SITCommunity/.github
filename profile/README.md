@@ -1,9 +1,9 @@
 <div align="center">
-  <img href="https://www.cyrateam.xyz/" width="442" height="200" src="https://media.discordapp.net/attachments/1038704467828281346/1149623374486716456/Proyek_Baru_9_03519D1.png?ex=65eacd33&is=65d85833&hm=3790065f48890ed67479de32a08f60831d6006b0304f1ad46fe82f175254ca18&=&format=webp&quality=lossless&width=783&height=440">
+  <img href="https://cyrateam.xyz/" width="442" height="200" src="https://media.discordapp.net/attachments/1038704467828281346/1149623374486716456/Proyek_Baru_9_03519D1.png?ex=65eacd33&is=65d85833&hm=3790065f48890ed67479de32a08f60831d6006b0304f1ad46fe82f175254ca18&=&format=webp&quality=lossless&width=783&height=440">
 </div>
 
 # who we are
-Smaller teams that work on a variety of projects and innovations.
+Strivo is a small, dedicated team focused on creating innovative solutions to assist and empower both users and developers alike.
 
 # our project
 ### CyraBot
@@ -32,7 +32,7 @@ Smaller teams that work on a variety of projects and innovations.
   - [website](https://www.cookiesmc.xyz/)
   - [discord](https://www.cookiesmc.xyz/discord/)
 
-By providing your support, you are contributing to the growth and improvement of CyraTeam's projects.
+By providing your support, you are contributing to the growth and improvement of Strivo projects.
 
 - our official [discord] servers
 - our official [website]
